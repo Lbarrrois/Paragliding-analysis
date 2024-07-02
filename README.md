@@ -9,4 +9,5 @@ in particular over mountainous areas.
 
 Here are displayed the more important figures of  the  report : 
 
-<img src="relative/path/in/repository/to/image.svg" width="128"/>
+<img src="BLH_23.png" width="500"/>
+src =        
