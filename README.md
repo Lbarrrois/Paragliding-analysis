@@ -8,6 +8,16 @@ Meso-NH 600 m and 200 m from meteorological variables. Overall, this study highl
 in particular over mountainous areas.
 
 Here are displayed the more important figures of  the  report : 
-
+<img src="Map_stations_flights.png" width="500"/>
+<img src="legitimacy_f.png" width="500"/>
 <img src="BLH_23.png" width="500"/>
+<img src="Derivative_BHL_23.png" width="500"/>
+<img src="thermal_threshold.png" width="500"/>
+<img src="thermals_23.png" width="500"/>
+
+<img src="rvuv_19_AROME.png" width="500"/>
+<img src="diurn_cycle_no_P.png" width="500"/>
+
+
+<img src="Orga_convection_12.png" width="500"/>
 src =        
