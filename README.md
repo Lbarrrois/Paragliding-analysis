@@ -57,7 +57,7 @@ of the arrows represent respectively the vertical speed, the horizontal speed an
 an interpolation of (a) on a regular grid of 16 × 16 km2 (𝑛 = 25 in 3.3) over the same domain. The background
 map shows the topography.
 
-
+<img src="BHL_son_19.png" width="1000"/>
 Figure 11 – ABL’s height (abcd) and hourly maximum vertical velocities (efgh) the 19𝑡 ℎ of August on a
 10 × 10 km2 grid (𝑛 = 50), estimated from flight data and from AROME simulations at 1.3 km resolution:
 Spatial distribution (ae) of observations (dots) and model outputs (shading) and scatter plots simulation versus
